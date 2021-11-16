@@ -1,16 +1,16 @@
-### Olá pessoal 👋
+### Olá, eu sou o Jiusandro 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Sou professor de física a mais de 10 anos
+- 🔭 Atualmente realizo pesquisas na área de controle quântico
+- 🌱 Na área de programação estou interessado em linguagem Python. Já programei em Pascal, Fortran, C, WxMaxima, Maple. 
+- 👯 Estou sempre procurando aprender alguma coisa nova. Neste momento estou aprendendo a utilizar o git e o GitHub.
+- 🤔 Busco sempre ajudar as pessoas e estou sempre procurando ajuda. Por isso gosto de trabalhos colaborativos.
+- 💬 Se você tiver alguma dúvida em que eu possa ajudar, ficarei contente em contribuir. Você pode visitar meu canal no YT (Física on-line).
+- 📫 Você pode entrar em contato por email ou em minhas redes sociais. Prefiro sempre as redes sociais (YT,facebook,Insta, Telegram) porque a dúvida de um pode ser a dúvida de outras pessoas. 
+- ⚡ Utilizo linux a mais de 20 anos.
 
+##
 
 <div align="center">
   <a href="https://github.com/jiusandro">
@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 <div>
    <a href="https://www.youtube.com/channel/UCaWUzwWXrj4RW_vvMbIKOpA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="mailto:jiusandro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
-    <a href="mailto:jiusandro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
   
 </div>
